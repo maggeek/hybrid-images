@@ -1,4 +1,4 @@
-The program is creating hybrid images from a given set of pairs.
+The program is creating hybrid images from a given set of pairs of images.
 
 To run the program, you need to:
 1. Unzip the folder into your chosen directory.
